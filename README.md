@@ -6,4 +6,4 @@ Auto random user agent string for PHP
 require_once 'user_agent.php';
 echo random_user_agent();
 
-# Check agent from: http://www.useragentstring.com/index.php
+Check agent from: http://www.useragentstring.com/index.php
