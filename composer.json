@@ -1,0 +1,9 @@
+{
+    "name": "cuongpd/random-user-agent",
+    "description": "A library for generating random User Agents for PHP",
+    "keywords": ["user-agent", "php"],
+
+    "autoload": {
+        "files": ["user-agent.php"]
+    }
+}
